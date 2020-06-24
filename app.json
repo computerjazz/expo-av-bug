@@ -1,0 +1,17 @@
+{
+  "name": "expoAVTest",
+  "displayName": "expoAVTest",
+  "expo": {
+    "name": "expoAVTest",
+    "slug": "expoAVTest",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
